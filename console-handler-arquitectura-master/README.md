@@ -67,12 +67,6 @@ The main focus of the library is the **JSON** that is downloaded. As an example 
 - We need to have the name of the button of the screen we want to display.
 - In case the screen has questions, we need to enter content and questions.
 
-## Things to considerate:
-
-- You can only access the interfaces by entering the name of the buttons correctly (lower or upper case is irrelevant).
-- The command 'ex' terminates the execution of the program.
-- The other screens can be accessed through the main screen.
-
 ## Methods
 
 - **getquestions(button)**
